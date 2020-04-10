@@ -10,7 +10,7 @@ import {
 import Svg, {Image, Circle, ClipPath} from 'react-native-svg';
 
 import Animated, { Easing } from 'react-native-reanimated';
-import { TopGestureHandler, State, TapGestureHandler } from 'react-native-gesture-handler';
+import { State, TapGestureHandler } from 'react-native-gesture-handler';
 
 const { width, height } = Dimensions.get('window');
 const {
